@@ -1,0 +1,4 @@
+selenium
+webdriver-manager
+aiogram
+python-dotenv
